@@ -43,10 +43,12 @@ Additionally, in comparison with SGAN and CycleGAN which are more on value trans
 ![30_stylized_00003_iter20000.png](https://github.com/soymarwin/ee298z/blob/main/assignment03/styled_images/30_stylized_00003_iter20000.png)
 <br>
 
-### TODO (for future explorers)
+### mini-TODOs (for future explorers)
 1. Unified preprocessing (environment preparation) on Google Colab.
 2. Training using [extra set of SVHN cropped](http://ufldl.stanford.edu/housenumbers/extra_32x32.mat). 
 3. Training and testing using PyTorch's in-house [MNIST and SVHN datasets](https://pytorch.org/docs/stable/torchvision/datasets.html).
+4. Training on 200000 iterations (compute resource issue due to limited time Colab GPU connection).
+5. PyTorch implementation on TPU.
 
 ### References
 1. [Original paper of Huang and Belongie](https://arxiv.org/abs/1703.06868)
