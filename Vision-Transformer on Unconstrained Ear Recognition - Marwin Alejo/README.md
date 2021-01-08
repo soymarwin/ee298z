@@ -6,13 +6,13 @@
 This mini-project was planned originally to be executed on Detection-Transformer (DeTr). However due to the incompatibility of the ear recognition task with DeTr architecture and its complexity, this project was executed in Vision-Transformer instead, a Transformer network for any recognition task. Furthermore, this is an extension of my 2019 study about Unconstrained Ear Recognition.
 
 ### Abstract
-This mini-project extends Transformer Networks, Vision-Transformer (ViT) to be specific, to the Unconstrained Ear Recognition Task using the first 20 classes of EarVN1.0 [7] on Google Colab TPU node. The model achieves a validation accuracy of 95% and is closly comparable with the CNN-based accuracy results of SOTA architectures through transfer learning. Complete colaboratory notebook maybe accessed [here](https://github.com/soymarwin/ee298z/blob/main/mini-project/Alejo_Marwin_ViT_Ear1.ipynb) or [directly to my colab notebook here](https://colab.research.google.com/drive/1Hg0isccTRi39FBfXJx9oS7nnUbumZHk2?usp=sharing) and the compiled report in PDF [here](https://github.com/soymarwin/ee298z/blob/main/mini-project/Alejo_Marwin_202020221_MiniProject_EE298Z.pdf)
+This mini-project extends Transformer Networks, Vision-Transformer (ViT) to be specific, to the Unconstrained Ear Recognition Task using the first 20 classes of EarVN1.0 [7] on Google Colab TPU node. The model achieves a validation accuracy of 95% and is closly comparable with the CNN-based accuracy results of SOTA architectures through transfer learning. Complete colaboratory notebook maybe accessed [here](https://github.com/soymarwin/ee298z/blob/main/Vision-Transformer%20on%20Unconstrained%20Ear%20Recognition%20-%20Marwin%20Alejo/Alejo_Marwin_ViT_Ear1.ipynb) or [directly to my colab notebook here](https://colab.research.google.com/drive/1Hg0isccTRi39FBfXJx9oS7nnUbumZHk2?usp=sharing) and the compiled report in PDF [here](https://github.com/soymarwin/ee298z/blob/main/Vision-Transformer%20on%20Unconstrained%20Ear%20Recognition%20-%20Marwin%20Alejo/Alejo_Marwin_202020221_MiniProject_EE298Z.pdf)
 
 ### Resources
 1. Google Colab TPU (Free node only!)
 2. PyTorch with XLA
 3. Pretrained models on ImageNet may be found [here](https://github.com/rwightman/pytorch-image-models/releases/tag/v0.1-vitjx) for those who would want to extend this project.
-4. 95% trained model may be downloaded [here](https://drive.google.com/drive/folders/17P2o6bYQDBsP_FGbd51A1APzXpLT0d3H?usp=sharing).
+4. This project's 95% trained model may be downloaded [here](https://drive.google.com/drive/folders/17P2o6bYQDBsP_FGbd51A1APzXpLT0d3H?usp=sharing).
 5. EarVN1.0 may be downloaded [here](https://data.mendeley.com/datasets/yws3v3mwx3/4)
 6. My 2019 Unconstrained Ear Recognition study may be viewed [here](https://www.ijrte.org/wp-content/uploads/papers/v8i2/B2865078219.pdf)
 
