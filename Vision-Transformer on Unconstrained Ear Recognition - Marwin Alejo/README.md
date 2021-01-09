@@ -11,7 +11,7 @@ This mini-project extends Transformer Networks, Vision-Transformer (ViT) and Dat
 ### Resources
 1. Google Colab TPU (Free node only)
 2. PyTorch with XLA (ViT only)
-3. Pretrained models on ImageNet may be found [here](https://github.com/rwightman/pytorch-image-models/releases/tag/v0.1-vitjx) or ViT and [here](https://github.com/facebookresearch/deit) for DeiT.
+3. Pretrained models on ImageNet may be found [here](https://github.com/rwightman/pytorch-image-models/releases/tag/v0.1-vitjx) for ViT and [here](https://github.com/facebookresearch/deit) for DeiT.
 4. Trained models may be downloaded [here](https://drive.google.com/drive/folders/17P2o6bYQDBsP_FGbd51A1APzXpLT0d3H?usp=sharing) for ViT and DeiT.
 5. EarVN1.0 dataset may be downloaded [here](https://data.mendeley.com/datasets/yws3v3mwx3/4). For this mini-project, only the first 20 folders are used with each images are splitted into 80:20 ratio.
 6. My 2019 Unconstrained Ear Recognition study may be viewed [here](https://www.ijrte.org/wp-content/uploads/papers/v8i2/B2865078219.pdf) which I used for performance comparison with ViT and DeiT results.
